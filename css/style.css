@@ -1,5 +1,5 @@
 body{
-background-color:yellow;
+background-color:orange;
 }
 div.caja{
 border:5px black;
@@ -11,3 +11,14 @@ width:250px;
 p{
 color:lime;
 }
+
+div.caja2{
+  border:5px black;
+background-color:red;
+height:500px;
+width:250px;
+}
+
+
+
+
