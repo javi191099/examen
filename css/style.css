@@ -1,0 +1,13 @@
+body{
+background-color:yellow;
+}
+div.caja{
+border:5px black;
+background-color:purple;
+height:500px;
+width:250px;
+}
+
+p{
+color:lime;
+}
